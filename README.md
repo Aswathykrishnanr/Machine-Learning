@@ -3,36 +3,38 @@
 This repository contains a collection of Machine Learning algorithms, experiments, and practice implementations using different datasets.
 The goal of this project is to explore core ML concepts and apply them through practical examples.
 
-##📚 Algorithms Covered
+## 📚 Algorithms Covered
 
 This repository includes implementations and experiments with:
 
-Linear Regression
+- Linear Regression
 
-Decision Trees
+- Decision Trees
 
-Support Vector Machines (SVM)
+- Support Vector Machines (SVM)
 
-K-Nearest Neighbors (KNN)
+- K-Nearest Neighbors (KNN)
 
-Naive Bayes
+- Naive Bayes
 
-Clustering Algorithms
+- Clustering Algorithms
 
-Hyperparameter Tuning
+- Hyperparameter Tuning
 
-##🛠 Tools and Libraries
+## 🛠 Tools and Libraries
 
 The projects in this repository use the following tools and Python libraries:
 
-Python
+- Python
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Scikit-learn
+- Seaborn
 
-Jupyter Notebook
+- Scikit-learn
+
+- Jupyter Notebook
